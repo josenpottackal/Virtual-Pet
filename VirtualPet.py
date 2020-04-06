@@ -1,8 +1,8 @@
 
 # File Name: Virtual Pet
 # Purpose: Models the action of a virtual pet
-# Date: 2020-03-01
-# Last modified: 2020-03-01
+# Date: 2020-02-20
+# Last modified: 2020-02-20
 # Author: Josen Pottackal
 # Copy right no copyright
 # Version: 1.0
